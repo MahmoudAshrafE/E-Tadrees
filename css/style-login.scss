@@ -1,0 +1,40 @@
+body {
+    overflow-y:scroll;
+    font-family: 'Cairo', sans-serif;
+}
+/*Start header*/
+.nav-hed{
+background-color: #00060f !important;
+position: relative !important;
+}
+.border-dark-mode{
+border-top:1px solid #fff !important;
+border-bottom:1px solid #fff !important;
+}
+/*End header*/
+
+/*Start login-page-sec*/
+section.login-page-sec{
+    
+    padding: 100px 0;
+    border-bottom:1px solid #fff !important;
+    .justify-content-center{
+        justify-content: center !important;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    input{
+        font-size: 18px;
+    }
+}
+    } 
+/*End login-page-sec*/
+
+footer.contactus-sec{
+.custom-shape-divider-top-1663941834 .shape-fill {
+    fill: #ffffff;
+}
+}
